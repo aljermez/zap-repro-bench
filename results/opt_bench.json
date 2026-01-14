@@ -1,0 +1,30 @@
+{
+  "machine": {
+    "timestamp": "2026-01-14T08:53:21",
+    "platform": "Windows-11-10.0.26100-SP0",
+    "python": "3.13.9",
+    "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel"
+  },
+  "problem": {
+    "n": 1000,
+    "tol": 0.01,
+    "max_iters": 2000,
+    "lr": 0.0004905539122998542,
+    "L_est": 2038.511924839657
+  },
+  "gd": {
+    "iters": 2000,
+    "final_grad_norm": 27.284797852235393,
+    "time_s": 0.34877360006794333
+  },
+  "momentum": {
+    "iters": 2000,
+    "final_grad_norm": 27.046235699787278,
+    "time_s": 0.2797745999414474
+  },
+  "cg": {
+    "iters": 27,
+    "final_grad_norm": 0.005528816966552885,
+    "time_s": 0.003712100093252957
+  }
+}

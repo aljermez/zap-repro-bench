@@ -1,2 +1,2 @@
 timestamp,platform,python,processor,repeats,warmup,min_s,median_s,max_s
-2026-01-14T08:45:17,Windows-11-10.0.26100-SP0,3.13.9,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",20,3,0.053111599991098046,0.060223500011488795,0.07474459998775274
+2026-01-14T10:23:21,Windows-11-10.0.26100-SP0,3.13.9,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",20,3,0.06091799994464964,0.06896970001980662,0.08337060001213104
