@@ -1,6 +1,6 @@
 {
   "machine": {
-    "timestamp": "2026-01-14T08:53:21",
+    "timestamp": "2026-01-14T11:16:32",
     "platform": "Windows-11-10.0.26100-SP0",
     "python": "3.13.9",
     "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel"
@@ -15,16 +15,16 @@
   "gd": {
     "iters": 2000,
     "final_grad_norm": 27.284797852235393,
-    "time_s": 0.34877360006794333
+    "time_s": 0.6896684999810532
   },
   "momentum": {
     "iters": 2000,
     "final_grad_norm": 27.046235699787278,
-    "time_s": 0.2797745999414474
+    "time_s": 0.7391587999882177
   },
   "cg": {
     "iters": 27,
     "final_grad_norm": 0.005528816966552885,
-    "time_s": 0.003712100093252957
+    "time_s": 0.008052000077441335
   }
 }

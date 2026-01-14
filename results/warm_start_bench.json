@@ -1,6 +1,6 @@
 {
   "machine": {
-    "timestamp": "2026-01-14T10:30:04",
+    "timestamp": "2026-01-14T11:16:46",
     "platform": "Windows-11-10.0.26100-SP0",
     "python": "3.13.9",
     "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel"
@@ -14,20 +14,20 @@
   "day1": {
     "iters": 27,
     "final_res": 0.005528816966552885,
-    "time_s": 0.00789100001566112
+    "time_s": 0.01395700010471046
   },
   "day2_cold": {
     "iters": 27,
     "final_res": 0.0055262011326287315,
-    "time_s": 0.007711700047366321
+    "time_s": 0.011957900016568601
   },
   "day2_warm": {
     "iters": 19,
     "final_res": 0.005721909003013328,
-    "time_s": 0.007041300064884126
+    "time_s": 0.00772220001090318
   },
   "improvement": {
     "iters_saved": 8,
-    "time_saved_s": 0.0006703999824821949
+    "time_saved_s": 0.0042357000056654215
   }
 }
